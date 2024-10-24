@@ -6,5 +6,5 @@
 <h1>
         Movies
 </h1>
-@dd($movies);
+{{--@dd($movies);--}}
 @endsection
